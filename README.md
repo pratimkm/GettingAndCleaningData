@@ -12,8 +12,10 @@ makeDataTidy
 writes a table to current working directory named tidy_data_set.txt
 
 ## References
-   ~ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones ~
-   ~ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ~
+  # Description of dataset :  
+        http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+  # Dataset
+    https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 }
 
 ## Note
