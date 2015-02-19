@@ -16,7 +16,7 @@ writes a table to current working directory named tidy_data_set.txt
         http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
   Download Dataset
     https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-}
+
 
 ## Note
  latex codebook file generated with the command, prompt(makeDataTidy)
@@ -30,7 +30,7 @@ writes a table to current working directory named tidy_data_set.txt
   Transform activity ids to names by mapping id to second column in activity labels data frame. 
   Remove parentheses from the column names and expand the abbreviations. This completes the descriptive variable names task.
   Now create independent tidy data set with the average of each variable for each activity and each subject and store in file tidy_data_set.txt.
-}
+
 
 # Examples
     makeDataTidy()
