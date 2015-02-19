@@ -6,7 +6,7 @@ To run this program you need to have R installed. Program had been tested with R
 
 Before running the program set working directory to a folder where your username is having write access.
 To run and produce output 
-            * Type source("run_analysis.R") and hit Rnter
-            * Type makeDataTidy() and hit Enter
-            * You should see output file tidy_data_set.txt generated in the same folder
+             Type source("run_analysis.R") and hit Rnter
+             Type makeDataTidy() and hit Enter
+             You should see output file tidy_data_set.txt generated in the same folder
 
